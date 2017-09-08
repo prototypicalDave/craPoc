@@ -8,14 +8,15 @@ class App extends Component {
       <div className="App">
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h2>Just POC things</h2>
+          <h2>Just POC things V2</h2>
         </div>
-        <p className="App-intro">
+        <p className="App-intro">o
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
       </div>
     );
   }
 }
+googlejetbrains
 
 export default App;
